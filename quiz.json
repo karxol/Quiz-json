@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Do czego słuzy funkcja len(): ",
+        "answers": [
+            {
+                "text": "Do wyświetlania tekstu",
+                "correct": false
+            },
+            {
+                "text": "Zwraca liczbę znaków w ciągu lub liczbę bajtów  ",
+                "correct": true 
+            },
+            {
+                "text": "Do powiekszenia tekstu",
+                "correct": false 
+            }
+        ]
+
+    },
+    {
+        "question": "Do czego służy print(): ",
+        "answers": [
+            {
+                "text": "Wyświetla określoną wiadomość na ekranie",
+                "correct": true
+            },
+            {
+                "text": "Wyłącza program ",
+                "correct": false 
+            },
+            {
+                "text": "Nic nie robi",
+                "correct": false 
+            }
+        ]
+
+    }
+]
